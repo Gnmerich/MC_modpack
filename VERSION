@@ -1,0 +1,117 @@
+TBI minecraft modpack Version 1.1
+
+MINECRAFT:
+     1.7.10
+FORGE:
+     forge-1.7.10-10.13.2.1230-installer
+COMPLETE LIST OF MODS: (versionsnummern nicht aktuell)
+     AE2 - rv1-beta-37
+     Bibliocraft - 1.8.2
+     BOP - 1.7.10-2.1.0.1019-universal
+     Buildcraft - 6.0.18.
+     CarpentersBlocks - v3.2.6 - MC 1.7.10
+     Chisel - 1.7.10-1.5.6a
+     CodeChickenCore - 1.7.10-1.0.2.9-universal
+     Dynmap - 2.0.0-forge-10.13.0
+     ExtraCells - 1.7.10-2.1.12b9
+     Forestry - 1.7.10-3.0.0.90
+     IC2 - 2-2.2.647-experimental
+     InventoryTweaks - 1.59-dev-152
+     Mantle - mc1.7.10-0.3.1
+     ModularPowersuits - 0.11.0.175
+     NEI - 1.7.10-1.0.2.15-universal
+     Numina - 0.4.0.99
+     ProjectRed (komplett) - 1.7.10-4.4.9.49
+     Railcraft - 1.7.10-9.3.2.0
+     TConstruct - 1.7.10_1.6.0d40.1
+     Thaumcraft - 1.7.10-4.2.1.4
+     ThaumicTinkerer- 2.5-1.7.10-158
+     
+
+###########################################
+Version 1.1 -> 1.2 (planned)
+
+Added:
+     Mystcraft
+     Extra Utilities
+     
+Updated:
+     ProjectRed (komplett)
+     	4.4.9.49 -> (Forge update notwendig)
+     ExtraCells
+	Hoffentlich stable release fuer rv2 von AE     	
+    Wahrscheinlich recht viel..
+    
+###########################################
+Version 1.0 -> 1.1 (x.12.2014)
+
+Removed:
+     Bibliocraft DONE
+     
+Added:
+     Waila - 1.5.6a_1.7.10 DONE
+     EnderIO - 1.7.10-2.2.5.311 DONE
+     HardcoreEnderExpansion - HEE_1.7.10_release-1.6.7 DONE
+     ChickenChunks - 1.7.10-1.3.4.15-universal DONE
+     Aroma1997Core - 1.7.10-1.0.2.13 DONE
+     AromaBackup - 1.7.10-0.0.0.5 DONE
+     OpenEye - 0.6-1.7.10 DONE     
+     ModularPowersuits - 0.11.0.175 DONE
+     Numina - 0.4.0.99 DONE
+     
+Updated:
+     AE2 
+	rv1-beta-37 -> rv2-beta-1 DONE
+     BiomesOPlenty
+	 1.7.10-2.1.0.1019 -> 1.7.10-2.1.0.1034 DONE
+     Buildcraft 
+	6.0.18 -> 6.2.6 DONE
+     Carpenter's Blocks
+     	3.2.6 -> 3.3.3 DONE
+     Chisel
+	1.5.6a -> 1.5.7 DONE
+     ExtraCells
+	2.1.12b9 -> 2.2.21b40 DONE
+     Forestry
+	1.7.10-3.0.0.90 -> 3.3.0.6 DONE
+     CodeChickenCore
+	 1.7.10-1.0.2.9 - 1.7.10-1.0.4.29 DONE	
+     IC2
+	2.2.647-experimental -> 2-2.2.658-experimental DONE
+     InventoryTweaks
+	1.59-dev-152 -> 1.58-147 (wie das auch immer gehen mag) DONE
+     NotEnoughItems
+	1.7.10-1.0.2.15 -> 1.7.10-1.0.3.74 DONE
+     Railcraft
+	9.3.2.0 -> 9.4.0.0 DONE
+     ThaumicTinkerer
+        2.5-1.7.10-158 -> 2.5-1.7.10-162 DONE
+     Thaumcraft
+	4.2.1.4 -> 4.2.2.0 DONE
+     
+     
+###########################################
+Version 1.0 (15.12.2014)
+
+MODS:
+     AE2 - rv1-beta-37
+     Bibliocraft - 1.8.2
+     BOP - 1.7.10-2.1.0.1019-universal
+     Buildcraft - 6.0.18.
+     CarpentersBlocks - v3.2.6 - MC 1.7.10
+     Chisel - 1.7.10-1.5.6a
+     CodeChickenCore - 1.7.10-1.0.2.9-universal
+     Dynmap - 2.0.0-forge-10.13.0
+     ExtraCells - 1.7.10-2.1.12b9
+     Forestry - 1.7.10-3.0.0.90
+     IC2 - 2-2.2.647-experimental
+     InventoryTweaks - 1.59-dev-152
+     Mantle - mc1.7.10-0.3.1
+     ModularPowersuits - 0.11.0.175
+     NEI - 1.7.10-1.0.2.15-universal
+     Numina - 0.4.0.99
+     ProjectRed (komplett) - 1.7.10-4.4.9.49
+     Railcraft - 1.7.10-9.3.2.0
+     TConstruct - 1.7.10_1.6.0d40.1
+     Thaumcraft - 1.7.10-4.2.1.4
+     ThaumicTinkerer- 2.5-1.7.10-158

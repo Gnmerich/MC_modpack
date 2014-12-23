@@ -1,4 +1,4 @@
 MC_modpack
 ==========
 
-Minecraft modpack
+Minecraft modpack Version 1.1
